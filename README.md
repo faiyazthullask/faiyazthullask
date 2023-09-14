@@ -4,7 +4,7 @@
 
 
 ## I'm a Graduate Teaching Assistant, Student and Developer!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my [portfolio] here.
 - 🔭 I’m currently a student at [Portland State University]
 - 👯 I’m actively looking for full time positions. 
 - 💬 Ask me about ... Anything
