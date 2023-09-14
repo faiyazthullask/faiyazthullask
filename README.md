@@ -40,19 +40,19 @@
 <br />
 <br />
 ---
+<p align="center">
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=zg2vmyzy49vg57uac6l7kknyr&count=2">
+</p>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Faiyaz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faiyazthulla-shaik&show_icons=true&hide_border=true" />
-
 </details>
+
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-
 <img align="left" alt="Faiyaz's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiyazthulla-shaik" />
-
 </details>
 
 [website]: https://faiyazpdx.vercel.app/
