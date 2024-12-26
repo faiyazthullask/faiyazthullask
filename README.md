@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 👋  
 
-This is Faiyaz, a recent grad from Portland State University and a passionate software developer. 
-I'm interested in problem solving and programming. 
+I'm Faiyaz, a Software Engineer at Goldman Sachs and a graduate of Portland State University.  
 
-Actively looking for full-time roles in Software Engineering. 
+I thrive on solving complex problems, writing clean, efficient code, and turning innovative ideas into reality. Whether it’s crafting elegant solutions or collaborating on exciting projects, I’m all about creating meaningful impact through technology.  
 
-Ping me at: faiyaz@pdx.edu or faiyazshaik03@gmail.com
+Feel free to reach out to me at faiyazshaik03@gmail.com!
